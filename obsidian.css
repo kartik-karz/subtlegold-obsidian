@@ -365,3 +365,16 @@ div.markdown-preview-view {
   padding: 2px;
   border-radius: 4px;
 }
+
+/* Check for update button */
+button.mod-cta {
+    color: var(--interactive-normal);
+    background-color: (--interactive-accent)
+}
+
+/* Notice when fetching community themes */
+div.notice {
+    color: var(--interactive-normal) !important;
+    background-color: (--interactive-accent)
+}
+
